@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shehan</h1>
 <h3 align="center">A passionate software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif">
+//<img align="right" alt="Coding" width="400" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif">
 
 - 🔭 I’m currently working on **Travelgo**
 
