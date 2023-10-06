@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm Shehan</h1>
 <h3 align="center">A passionate software developer</h3>
 
+I'm a Computer Science and Engineering student at the University of Moratuwa. 
+
+🌱 I'm passionate about technology, coding, and problem-solving.
+
+- 📚 Currently pursuing my Bachelor's degree in Computer Science and Engineering.
 
 - 🔭 I’m currently working on **Travelgo**
 
