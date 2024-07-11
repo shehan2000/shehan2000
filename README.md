@@ -7,9 +7,9 @@ I'm a Computer Science and Engineering student at the University of Moratuwa.
 
 - 📚 Currently pursuing my Bachelor's degree in Computer Science and Engineering.
 
-- 🔭 I’m currently working on **Defect detection using object detection**
+- 🔭 I’m currently working on **Privacy preserving Virtual Assistent **
 
-- 🌱 I’m currently learning **Computer vision**
+- 🌱 I’m currently learning **Deep Learning and computer vision,Multimodel LLMs**
 
 - 📫 How to reach me **maliths.20@cse.mrt.ac.lk**
 
