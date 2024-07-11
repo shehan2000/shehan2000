@@ -7,7 +7,7 @@ I'm a Computer Science and Engineering student at the University of Moratuwa.
 
 - 📚 Currently pursuing my Bachelor's degree in Computer Science and Engineering.
 
-- 🔭 I’m currently working on **Privacy preserving Virtual Assistent **
+- 🔭 I’m currently working on **Privacy preserving Virtual Assistent**
 
 - 🌱 I’m currently learning **Deep Learning and computer vision,Multimodel LLMs**
 
