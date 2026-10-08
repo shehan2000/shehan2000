@@ -125,10 +125,6 @@ Developing an AI-powered application that combines retrieval-augmented generatio
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehan2000&show_icons=true&theme=tokyonight&hide_border=true" alt="Shehan's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan2000&theme=tokyonight&hide_border=true" alt="Shehan's GitHub Streak" />
 </p>
 
