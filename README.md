@@ -1,31 +1,152 @@
-<h1 align="center">Hi 👋, I'm Shehan</h1>
-<h3 align="center">A passionate software developer</h3>
+# Hi 👋, I'm Shehan Malith
 
-I'm a Computer Science and Engineering student at the University of Moratuwa. 
+### Software Engineer | Full-Stack Developer | Web3 | AI Engineering
 
-🌱 I'm passionate about technology, coding, and problem-solving.
+I'm a Computer Science and Engineering graduate from the **University of Moratuwa, Sri Lanka**, passionate about building scalable web applications, AI-powered solutions, and innovative software systems.
 
-- 📚 Currently pursuing my Bachelor's degree in Computer Science and Engineering.
+* 💼 Working on **Loom — an e-commerce platform**
+* 🤖 Building an **End-to-End Agentic RAG Project**
+* 🌱 Currently learning **Agentic RAG, Spring Boot, and DevOps**
+* 💻 Experienced in **Full-Stack Development, Web3, AI, and Computer Vision**
+* 🎓 B.Sc. in Engineering — Computer Science and Engineering, University of Moratuwa
+* 📫 Reach me at **[maliths.20@cse.mrt.ac.lk](mailto:maliths.20@cse.mrt.ac.lk)**
+* 🎵 Fun fact: Classical music enthusiast
 
-- 🔭 I’m currently working on **Privacy preserving Virtual Assistent**
+---
 
-- 🌱 I’m currently learning **Deep Learning and computer vision,Multimodel LLMs**
+## 🌐 Connect with Me
 
-- 📫 How to reach me **maliths.20@cse.mrt.ac.lk**
-
-- ⚡ Fun fact **🎵 Music Lover: Classical music**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/malith-shehan-5a254a235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malith-shehan-5a254a235" height="30" width="40" /></a>
-<a href="https://codesandbox.com/shehan2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shehan2000" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/200600t_cse_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="200600t_cse_20" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/malith-shehan-5a254a235" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://codesandbox.com/shehan2000" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/200600t_cse_20" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
+## 🛠️ Languages and Tools
 
+### 💻 Frontend Development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehan2000&" alt="shehan2000" /></p>
+<p align="left">
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/></a>
+</p>
 
+### ⚙️ Backend Development
+
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/></a>
+</p>
+
+### 🤖 AI, Machine Learning & Computer Vision
+
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/></a>
+  <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangGraph"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+</p>
+
+### ⛓️ Blockchain & Web3
+
+<p align="left">
+  <a href="https://soliditylang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="40" height="40"/></a>
+  <a href="https://ethereum.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ethereum" alt="Ethereum" width="40" height="40"/></a>
+  <a href="https://wagmi.sh/" target="_blank"><img src="https://img.shields.io/badge/Wagmi-1C1C1C?style=for-the-badge" alt="Wagmi"/></a>
+  <a href="https://rainbowkit.com/" target="_blank"><img src="https://img.shields.io/badge/RainbowKit-7B3FE4?style=for-the-badge" alt="RainbowKit"/></a>
+  <a href="https://viem.sh/" target="_blank"><img src="https://img.shields.io/badge/Viem-222222?style=for-the-badge" alt="Viem"/></a>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/></a>
+</p>
+
+### ☁️ DevOps & Development Tools
+
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/></a>
+</p>
+
+---
+
+## 🚀 Current Projects
+
+### 🛒 Loom — E-commerce Platform
+
+Working on an e-commerce platform focused on delivering a modern online shopping experience.
+
+**Focus:** Full-stack development, application features, and scalable web architecture.
+
+### 🤖 End-to-End Agentic RAG System
+
+Developing an AI-powered application that combines retrieval-augmented generation with agentic workflows to retrieve relevant information and support multi-step task execution.
+
+**Focus:** LLMs, RAG pipelines, AI agents, tool integration, and backend development.
+
+---
+
+## 💡 Areas of Interest
+
+* Agentic AI and Retrieval-Augmented Generation (RAG)
+* Large Language Models and AI-powered applications
+* Full-Stack Web Development
+* Blockchain and Decentralized Applications
+* Computer Vision and Deep Learning
+* Spring Boot and Enterprise Application Development
+* DevOps, Docker, Linux, and CI/CD
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shehan2000&show_icons=true&theme=tokyonight&hide_border=true" alt="Shehan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan2000&theme=tokyonight&hide_border=true" alt="Shehan's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan2000&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Great things are done by a series of small things brought together.”</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
