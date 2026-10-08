@@ -20,12 +20,13 @@ I'm a Computer Science and Engineering graduate from the **University of Moratuw
   <a href="https://linkedin.com/in/malith-shehan-5a254a235" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://codesandbox.com/shehan2000" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/200600t_cse_20" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-  </a>
+ <a href="https://leetcode.com/u/user3851jx/" target="_blank">
+  <img align="center"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
+       alt="LeetCode"
+       height="30"
+       width="40" />
+</a>
 </p>
 
 ---
@@ -48,7 +49,6 @@ I'm a Computer Science and Engineering graduate from the **University of Moratuw
 
 <p align="left">
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40"/></a>
@@ -62,16 +62,11 @@ I'm a Computer Science and Engineering graduate from the **University of Moratuw
 <p align="left">
   <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/></a>
-  <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangGraph"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 </p>
 
 ### ⛓️ Blockchain & Web3
 
 <p align="left">
-  <a href="https://soliditylang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="40" height="40"/></a>
-  <a href="https://ethereum.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ethereum" alt="Ethereum" width="40" height="40"/></a>
   <a href="https://wagmi.sh/" target="_blank"><img src="https://img.shields.io/badge/Wagmi-1C1C1C?style=for-the-badge" alt="Wagmi"/></a>
   <a href="https://rainbowkit.com/" target="_blank"><img src="https://img.shields.io/badge/RainbowKit-7B3FE4?style=for-the-badge" alt="RainbowKit"/></a>
   <a href="https://viem.sh/" target="_blank"><img src="https://img.shields.io/badge/Viem-222222?style=for-the-badge" alt="Viem"/></a>
