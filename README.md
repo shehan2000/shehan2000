@@ -18,15 +18,18 @@ I'm a Computer Science and Engineering graduate from the **University of Moratuw
 
 <p align="left">
   <a href="https://linkedin.com/in/malith-shehan-5a254a235" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40"/>
   </a>
- <a href="https://leetcode.com/u/user3851jx/" target="_blank">
-  <img align="center"
-       src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
-       alt="LeetCode"
-       height="30"
-       width="40" />
-</a>
+
+  <a href="https://leetcode.com/u/user3851jx/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
+         alt="LeetCode"
+         height="30"
+         width="40"/>
+  </a>
 </p>
 
 ---
